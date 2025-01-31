@@ -1,0 +1,82 @@
+[
+    {
+        "Simulation_Run": 1,
+        "Qualitative_Description": "Moderate adoption, with strong uptake among early adopters and early majority. AI resources were heavily consumed, indicating high AI adoption. Moderate economic inequality, with wealth concentrated in certain groups."
+    },
+    {
+        "Simulation_Run": 2,
+        "Qualitative_Description": "High adoption, most of the population has adopted the technology. AI resources were heavily consumed, indicating high AI adoption. Relatively equitable economic outcomes, with distributed wealth."
+    },
+    {
+        "Simulation_Run": 3,
+        "Qualitative_Description": "Low adoption, technology failed to reach widespread usage. AI resources remained largely unused, suggesting low AI adoption. Relatively equitable economic outcomes, with distributed wealth."
+    },
+    {
+        "Simulation_Run": 4,
+        "Qualitative_Description": "High adoption, most of the population has adopted the technology. AI resources were heavily consumed, indicating high AI adoption. Relatively equitable economic outcomes, with distributed wealth."
+    },
+    {
+        "Simulation_Run": 5,
+        "Qualitative_Description": "Moderate adoption, with strong uptake among early adopters and early majority. AI resources remained largely unused, suggesting low AI adoption. Significant economic inequality developed during the simulation."
+    },
+    {
+        "Simulation_Run": 6,
+        "Qualitative_Description": "Low adoption, technology failed to reach widespread usage. AI resources remained largely unused, suggesting low AI adoption. Relatively equitable economic outcomes, with distributed wealth."
+    },
+    {
+        "Simulation_Run": 7,
+        "Qualitative_Description": "Low adoption, technology failed to reach widespread usage. AI resources remained largely unused, suggesting low AI adoption. Relatively equitable economic outcomes, with distributed wealth."
+    },
+    {
+        "Simulation_Run": 8,
+        "Qualitative_Description": "Moderate adoption, with strong uptake among early adopters and early majority. AI resources were heavily consumed, indicating high AI adoption. Moderate economic inequality, with wealth concentrated in certain groups."
+    },
+    {
+        "Simulation_Run": 9,
+        "Qualitative_Description": "High adoption, most of the population has adopted the technology. AI resources remained largely unused, suggesting low AI adoption. Relatively equitable economic outcomes, with distributed wealth."
+    },
+    {
+        "Simulation_Run": 10,
+        "Qualitative_Description": "High adoption, most of the population has adopted the technology. AI resources were heavily consumed, indicating high AI adoption. Moderate economic inequality, with wealth concentrated in certain groups."
+    },
+    {
+        "Simulation_Run": 11,
+        "Qualitative_Description": "Moderate adoption, with strong uptake among early adopters and early majority. AI resources remained largely unused, suggesting low AI adoption. Relatively equitable economic outcomes, with distributed wealth."
+    },
+    {
+        "Simulation_Run": 12,
+        "Qualitative_Description": "Low adoption, technology failed to reach widespread usage. AI resources remained largely unused, suggesting low AI adoption. Relatively equitable economic outcomes, with distributed wealth."
+    },
+    {
+        "Simulation_Run": 13,
+        "Qualitative_Description": "Moderate adoption, with strong uptake among early adopters and early majority. AI resources were heavily consumed, indicating high AI adoption. Significant economic inequality developed during the simulation."
+    },
+    {
+        "Simulation_Run": 14,
+        "Qualitative_Description": "High adoption, most of the population has adopted the technology. AI resources remained largely unused, suggesting low AI adoption. Relatively equitable economic outcomes, with distributed wealth."
+    },
+    {
+        "Simulation_Run": 15,
+        "Qualitative_Description": "High adoption, most of the population has adopted the technology. AI resources were heavily consumed, indicating high AI adoption. Moderate economic inequality, with wealth concentrated in certain groups."
+    },
+    {
+        "Simulation_Run": 16,
+        "Qualitative_Description": "Low adoption, technology failed to reach widespread usage. AI resources remained largely unused, suggesting low AI adoption. Relatively equitable economic outcomes, with distributed wealth."
+    },
+    {
+        "Simulation_Run": 17,
+        "Qualitative_Description": "Low adoption, technology failed to reach widespread usage. AI resources remained largely unused, suggesting low AI adoption. Relatively equitable economic outcomes, with distributed wealth."
+    },
+    {
+        "Simulation_Run": 18,
+        "Qualitative_Description": "High adoption, most of the population has adopted the technology. AI resources remained largely unused, suggesting low AI adoption. Relatively equitable economic outcomes, with distributed wealth."
+    },
+    {
+        "Simulation_Run": 19,
+        "Qualitative_Description": "High adoption, most of the population has adopted the technology. AI resources were heavily consumed, indicating high AI adoption. Significant economic inequality developed during the simulation."
+    },
+    {
+        "Simulation_Run": 20,
+        "Qualitative_Description": "High adoption, most of the population has adopted the technology. Moderate AI resource consumption, balancing AI and traditional approaches. Moderate economic inequality, with wealth concentrated in certain groups."
+    }
+]
